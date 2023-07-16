@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subscription-plan/static/css/main.9dacb0cf.css",
+    "main.js": "/subscription-plan/static/js/main.ada1c72f.js",
+    "index.html": "/subscription-plan/index.html",
+    "main.9dacb0cf.css.map": "/subscription-plan/static/css/main.9dacb0cf.css.map",
+    "main.ada1c72f.js.map": "/subscription-plan/static/js/main.ada1c72f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dacb0cf.css",
+    "static/js/main.ada1c72f.js"
+  ]
+}
