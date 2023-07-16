@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh 3rem;
+    align-items: center;
+    height: 5vh;
+}
+
+.section-left{
+    display: flex;
+    gap: 3rem;
+}
+
+.section-right{
+    display: flex;
+    display: flex;
+    gap: 3rem;
+
+}
+
+.join {
+    background: linear-gradient(to right, #008FFE, #0048FE);
+    padding: .5rem 2rem;
+    border: none;
+    color: #fff;
+    border-radius: 30px;
+}

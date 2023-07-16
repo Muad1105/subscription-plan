@@ -1,0 +1,75 @@
+.body-section {
+  background-image: linear-gradient(to right, #050a15, #122140);
+  height: 94.3vh;
+  padding: 3rem 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-body-left {
+  color: #fff;
+  width: 30vw;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.section-body-left .header-ad {
+  display: inline;
+  font-size: 33px;
+}
+
+.actual-price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: inline;
+  position: relative;
+  margin-right: 100px;
+}
+
+.actual-price span {
+  text-decoration: line-through;
+  position: absolute;
+}
+
+.actual-price span .outer {
+  color: white;
+  text-decoration: line-through;
+}
+.actual-price span .inner {
+  color: red;
+}
+
+.header-offer-price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: inline;
+  color: #0096ff;
+}
+.section-body-left p {
+  font-size: 19px;
+}
+
+.course-offerings {
+  font-size: 45px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.course-offerings p {
+  font-size: 22px;
+}
+
+.course-offerings span {
+  color: #0096ff;
+}
+.course-offerings span p {
+  display: inline;
+}
+
+.section-body-right {
+  color: #fff;
+}

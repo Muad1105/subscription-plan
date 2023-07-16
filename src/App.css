@@ -1,5 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
+  max-height: 100vh;
+  border: 3px solid #9747ff;
 }
 
 .App-logo {
